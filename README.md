@@ -14,7 +14,7 @@ Task may get broken down into multiple task at any time. In particular we expect
 
 | todo                 | WIP                    | Done                         |
 | -------------------- | ---------------------- | ---------------------------- |
-| index.html, one pic |                     |                          |
+|  | index.html, one pic                    |                          |
 | index.html, random pic |                     |                          |
 | refresh page button |                     |                          |
 | Other breeds page |                     |                          |
