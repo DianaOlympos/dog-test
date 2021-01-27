@@ -12,15 +12,15 @@ This board is ordered in term of priority and complexity. The goal is to impleme
 
 Task may get broken down into multiple task at any time. In particular we expect the history one to be broken down multiple time
 
-| todo               | WIP               | Done                 |
-| ------------------ | ----------------- | -------------------- |
-|                    |                   | index.html, one pic  |
-|                    |                   | refresh image button |
-|                    |                   | Other breeds page    |
-|                    |                   | shiba -> shiba.html  |
-|                    | index list breeds |                      |
-| breed list get pic |                   |                      |
-| history            |                   |                      |
+| todo    | WIP                | Done                 |
+| ------- | ------------------ | -------------------- |
+|         |                    | index.html, one pic  |
+|         |                    | refresh image button |
+|         |                    | Other breeds page    |
+|         |                    | shiba -> shiba.html  |
+|         |                    | index list breeds    |
+|         | breed list get pic |                      |
+| history |                    |                      |
 
 ## Notes
 
@@ -49,3 +49,7 @@ Yeah i am bruteforcing. Don't care :D Though not touching the subreeds, it was n
 Also no, no js on the fly generation, it is simple enough to do this way
 
 Also time to get a site folder instead of putting it all together.
+
+## breed index
+
+Editor shortcuts to save the day
