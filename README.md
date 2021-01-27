@@ -23,7 +23,6 @@ Task may get broken down into multiple task at any time. In particular we expect
 |                  | breaking down history tasks |                      |
 | nicer breed pics |                             |                      |
 
-
 ## Notes
 
 This will record my notes in a stream of consciousness style as i go. The objective is to reproduce what could be possible if i was working with a team.
@@ -55,3 +54,11 @@ Also time to get a site folder instead of putting it all together.
 ## breed index
 
 Editor shortcuts to save the day
+
+## images on breed
+
+I could probably do something nicer with a dataset value and looping through the children element with an onload on the body but that is too much DOM manipulation for me today
+Would be nice to get rid of the quotes so it is on the kanban board
+Also would be nice to add a way to know which breed it is, like keeping a name. Would probably be something i would do if i was doing css, with a nice pice per line and all, but i am not doing any CSS today.
+
+Also it is obvious some of these images are copyrighted (watermarked).... there is a real problem here
