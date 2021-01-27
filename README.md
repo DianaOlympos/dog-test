@@ -20,7 +20,6 @@ Task may get broken down into multiple task at any time. In particular we expect
 |                                       |     | shiba -> shiba.html  |
 |                                       |     | index list breeds    |
 |                                       |     | breed list get pic   |
-|                                       |     |                      |
 | create history page                   |     |                      |
 | each random click store to IndexedDB  |     |                      |
 | get data from IndexedDb               |     |                      |
