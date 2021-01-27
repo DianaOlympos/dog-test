@@ -12,16 +12,20 @@ This board is ordered in term of priority and complexity. The goal is to impleme
 
 Task may get broken down into multiple task at any time. In particular we expect the history one to be broken down multiple time
 
-| todo             | WIP                         | Done                 |
-| ---------------- | --------------------------- | -------------------- |
-|                  |                             | index.html, one pic  |
-|                  |                             | refresh image button |
-|                  |                             | Other breeds page    |
-|                  |                             | shiba -> shiba.html  |
-|                  |                             | index list breeds    |
-|                  |                             | breed list get pic   |
-|                  | breaking down history tasks |                      |
-| nicer breed pics |                             |                      |
+| todo                                  | WIP | Done                 |
+| ------------------------------------- | --- | -------------------- |
+|                                       |     | index.html, one pic  |
+|                                       |     | refresh image button |
+|                                       |     | Other breeds page    |
+|                                       |     | shiba -> shiba.html  |
+|                                       |     | index list breeds    |
+|                                       |     | breed list get pic   |
+|                                       |     |                      |
+| create history page                   |     |                      |
+| each random click store to IndexedDB  |     |                      |
+| get data from IndexedDb               |     |                      |
+| display a list of element from the db |     |                      |
+| nicer breed index                     |     |                      |
 
 ## Notes
 
@@ -62,3 +66,13 @@ Would be nice to get rid of the quotes so it is on the kanban board
 Also would be nice to add a way to know which breed it is, like keeping a name. Would probably be something i would do if i was doing css, with a nice pice per line and all, but i am not doing any CSS today.
 
 Also it is obvious some of these images are copyrighted (watermarked).... there is a real problem here
+
+## History
+
+Ok reaching the end of my time here.
+Two solutions for history
+
+  1. use WebStorage. That would work but limited. Maybe if we limit to a 10 pic history ?
+  2. use IndexedDB. Far more involved but still doable. I think it is a better long term solution. Maybe with a "load more" to avoid long term problem when it grows but that is for later.
+
+Only 2min left, not going to try doing more.
