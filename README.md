@@ -37,3 +37,15 @@ Also it is not obvious from the webpage at dogs.ceo what is the license for thes
 I am also leaving all thinking for CSP and security to later. I would love to tackle it now, but i don't know enough yet and 2h is short.
 
 Would be nice to serve is as gh pages, may do that instead of the history part.
+
+### Random image
+
+I keep forgetting how painful promises and fetch is. Really, Promise are such a broken API. Whyyyyyy
+
+### Breeds
+
+Yeah i am bruteforcing. Don't care :D Though not touching the subreeds, it was not talked about in the thingy and it is complex enough for 2h. Not so hard if we wanted.
+
+Also no, no js on the fly generation, it is simple enough to do this way
+
+Also time to get a site folder instead of putting it all together.

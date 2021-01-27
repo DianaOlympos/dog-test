@@ -16,8 +16,11 @@ function changeDogImage(dogUrl)
   });
 }
 
-// function to get a random Shiba image
-function getRandomShiba()
+// function to get a random image
+function getRandom()
 {
-  changeDogImage('https://dog.ceo/api/breed/shiba/images/random');
+  let breed = document.getElementById('randomDog').dataset.breed;
+  let breedUrl = new URL(breed + "/", "https://dog.ceo/api/breed/");
+  let randomImageUrl = new URL("images/random", breedUrl);
+  changeDogImage(randomImageUrl);
 }
